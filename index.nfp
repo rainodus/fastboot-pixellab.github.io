@@ -1,1 +1,2 @@
-{ 'text', 5, 6, 0xFFFFFF, "DEF", "Compys is a fictional company that specializes in the"}
+{ label= 'Welcome to Compys Website',
+{ 'text', 2, 2, 0x00FF00, "DEF", "Welcome to Compys Website - The first on-line page for OpenComputers"},
