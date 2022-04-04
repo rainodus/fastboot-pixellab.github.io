@@ -70,7 +70,7 @@ const CONFIG = {
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
@@ -101,7 +101,7 @@ const CONFIG = {
 			name: 'Hashnode',
 			icon: 'pen-tool',
 			link: 'https://hashnode.com/',
-		},
+		}
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
