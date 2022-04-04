@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Discord',
 			icon: 'bot',
-			link: 'https://open.spotify.com',
+			link: 'https://discord.com/app',
 		},
 	],
 
