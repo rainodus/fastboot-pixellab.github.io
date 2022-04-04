@@ -74,34 +74,19 @@ const CONFIG = {
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
-		}
-	],
-
-	secondButtonsContainer: [
+		},
 		{
-			id: '1',
+			id: '5',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
 		{
-			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '3',
-			name: 'bot',
+			id: '6',
+			name: 'Discord',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://open.spotify.com',
 		},
-		{
-			id: '4',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		}
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
